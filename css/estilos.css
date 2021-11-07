@@ -1,0 +1,7 @@
+html {font-family: sans-serif; text-align: center}
+body {display: inline-block; text-align: left}
+form p {display: table-row}        
+label {display: table-cell; padding: 0 1em 1em 0; font-weight: bold}
+*:required {border: thin solid blue}
+footer, em {font-size: small}
+.numero {text-align: right}
